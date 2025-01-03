@@ -9,9 +9,9 @@ We explored various neural codec systems for the SLM-driven speech generation ta
 ## Citations
 ```
 @inproceedings{codecinvestigation,
-title={Investigating Neural Audio Codecs for Speech Language Model-Based Speech Generation}, 
-author={Jiaqi Li and Dongmei Wang and Xiaofei Wang and Yao Qian and Long Zhou and Shujie Liu and Midia Yousefi and Canrun Li and Chung-Hsien Tsai and Zhen Xiao and Yanqing Liu and Junkun Chen and Sheng Zhao and Jinyu Li and Zhizheng Wu and Michael Zeng},
-year={2024},
-booktitle    = {{SLT}},
+    title={Investigating Neural Audio Codecs for Speech Language Model-Based Speech Generation}, 
+    author={Jiaqi Li and Dongmei Wang and Xiaofei Wang and Yao Qian and Long Zhou and Shujie Liu and Midia Yousefi and Canrun Li and Chung-Hsien Tsai and Zhen Xiao and Yanqing Liu and Junkun Chen and Sheng Zhao and Jinyu Li and Zhizheng Wu and Michael Zeng},
+    year={2024},
+    booktitle={{SLT}},
 }
 ```
